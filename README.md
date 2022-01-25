@@ -3,5 +3,6 @@
 - 🌱 I’m currently learning Javascript & React
 - 💞️ I’m not looking to collaborate
 - 📫 How to reach me:
-  - Telegram - @loginmAv
+  - Telegram: @loginmAv
+  - E-mail: bondarenkoIlyaProfession@gmail.com
 
